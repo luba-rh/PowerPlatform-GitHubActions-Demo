@@ -23,7 +23,7 @@ on:
         default: solutions/
 
 env:
-  ENVIRONMENT_URL: '9b2bca3d-9b38-e892-bf71-a25ad854fe08'
+  ENVIRONMENT_URL: 'https://rockhop-demos.crm.dynamics.com/'
   CLIENT_ID: 'aa8c8fdf-d042-4d00-9d11-87c38b268af2'
   TENANT_ID: 'bf59fe7f-17f4-4538-8014-69eff1fdadc8'
 
